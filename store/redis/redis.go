@@ -473,7 +473,7 @@ func (r *Redis) keys(regex string) ([]string, error) {
 	const (
 		startCursor  = 0
 		endCursor    = 0
-		defaultCount = 10
+		defaultCount = 1000
 	)
 
 	var allKeys []string
