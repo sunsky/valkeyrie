@@ -1,7 +1,7 @@
 package mock
 
 import (
-	"github.com/abronan/valkeyrie/store"
+	"github.com/sunsky/valkeyrie/store"
 	"github.com/stretchr/testify/mock"
 )
 

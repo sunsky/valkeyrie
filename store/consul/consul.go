@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/abronan/valkeyrie"
-	"github.com/abronan/valkeyrie/store"
+	"github.com/sunsky/valkeyrie"
+	"github.com/sunsky/valkeyrie/store"
 	"github.com/hashicorp/consul/api"
 )
 

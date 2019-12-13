@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/abronan/valkeyrie"
-	"github.com/abronan/valkeyrie/store"
-	"github.com/abronan/valkeyrie/testutils"
+	"github.com/sunsky/valkeyrie"
+	"github.com/sunsky/valkeyrie/store"
+	"github.com/sunsky/valkeyrie/testutils"
 	"github.com/stretchr/testify/assert"
 )
 

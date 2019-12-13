@@ -12,8 +12,8 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/abronan/valkeyrie"
-	"github.com/abronan/valkeyrie/store"
+	"github.com/sunsky/valkeyrie"
+	"github.com/sunsky/valkeyrie/store"
 	etcd "go.etcd.io/etcd/client"
 )
 

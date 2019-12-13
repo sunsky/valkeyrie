@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/abronan/valkeyrie"
-	"github.com/abronan/valkeyrie/store"
+	"github.com/sunsky/valkeyrie"
+	"github.com/sunsky/valkeyrie/store"
 
 	"gopkg.in/redis.v5"
 )

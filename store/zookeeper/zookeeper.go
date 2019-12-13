@@ -4,8 +4,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/abronan/valkeyrie"
-	"github.com/abronan/valkeyrie/store"
+	"github.com/sunsky/valkeyrie"
+	"github.com/sunsky/valkeyrie/store"
 	zk "github.com/samuel/go-zookeeper/zk"
 )
 

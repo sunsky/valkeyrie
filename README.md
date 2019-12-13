@@ -1,9 +1,9 @@
 # valkeyrie
 
-[![GoDoc](https://godoc.org/github.com/abronan/valkeyrie?status.png)](https://godoc.org/github.com/abronan/valkeyrie)
+[![GoDoc](https://godoc.org/github.com/sunsky/valkeyrie?status.png)](https://godoc.org/github.com/sunsky/valkeyrie)
 [![Build Status](https://travis-ci.org/abronan/valkeyrie.svg?branch=master)](https://travis-ci.org/abronan/valkeyrie)
 [![Coverage Status](https://coveralls.io/repos/abronan/valkeyrie/badge.svg)](https://coveralls.io/r/abronan/valkeyrie)
-[![Go Report Card](https://goreportcard.com/badge/github.com/abronan/valkeyrie)](https://goreportcard.com/report/github.com/abronan/valkeyrie)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sunsky/valkeyrie)](https://goreportcard.com/report/github.com/sunsky/valkeyrie)
 
 `valkeyrie` provides a `Go` native library to store metadata using Distributed Key/Value stores (or common databases).
 
@@ -25,7 +25,7 @@ It is ideal if you plan for something written in Go that should support:
 
 You can also easily implement a generic *Leader Election* algorithm on top of it (see the [docker/leadership](https://github.com/docker/leadership) repository).
 
-You can find examples of usage for `valkeyrie` under in [docs/examples.go](https://github.com/abronan/valkeyrie/blob/master/docs/examples.md). Optionally you can also take a look at the `docker/swarm`, `docker/libnetwork` or `containous/traefik` repositories which are using `valkeyrie` for all the use cases listed above.
+You can find examples of usage for `valkeyrie` under in [docs/examples.go](https://github.com/sunsky/valkeyrie/blob/master/docs/examples.md). Optionally you can also take a look at the `docker/swarm`, `docker/libnetwork` or `containous/traefik` repositories which are using `valkeyrie` for all the use cases listed above.
 
 ## Supported versions
 
@@ -101,7 +101,7 @@ Only `Consul` and `etcd` have support for TLS and you should build and provide y
 
 ## Contributing
 
-Want to contribute to valkeyrie? Take a look at the [Contribution Guidelines](https://github.com/abronan/valkeyrie/blob/master/CONTRIBUTING.md).
+Want to contribute to valkeyrie? Take a look at the [Contribution Guidelines](https://github.com/sunsky/valkeyrie/blob/master/CONTRIBUTING.md).
 
 ## Maintainers
 

@@ -2,7 +2,7 @@ language: go
 
 sudo: true
 
-go_import_path: github.com/abronan/valkeyrie
+go_import_path: github.com/sunsky/valkeyrie
 
 cache:
   directories:
